@@ -1,5 +1,5 @@
 const btn = document.querySelector('.btn');
 
 btn.onclick = () => {
-  alert('say myaooooo');
+  alert('Boo Boo come here for some tranquilizing moment!');
 };
